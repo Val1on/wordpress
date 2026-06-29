@@ -1,0 +1,143 @@
+
+[13:00:52 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=129eadabfd"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=3dcb4dc9ef"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=b130946093"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=0b40149deb"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=129eadabfd"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=3dcb4dc9ef"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=b130946093"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=0b40149deb"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[13:00:52 UTC] [SUCCESS] {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"C:\\xampp\\htdocs\\wordpress\/wp-content\/uploads"} | Context: {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"C:\\xampp\\htdocs\\wordpress\/wp-content\/uploads"}
+[13:01:36 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=129eadabfd"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=3dcb4dc9ef"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=b130946093"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=0b40149deb"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=129eadabfd"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=3dcb4dc9ef"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=b130946093"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/localhost\/wordpress\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=0b40149deb"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[13:01:54 UTC] [INFO] Starting import process | Context: {"template_type":"classic","uuid":""}
+[13:01:54 UTC] [INFO] Started Import Process
+[13:01:54 UTC] [INFO] # System Details: 
+[13:01:54 UTC] [INFO] Debug Mode 		: Disabled
+[13:01:54 UTC] [INFO] Operating System 	: WINNT
+[13:01:54 UTC] [INFO] Software 		: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+[13:01:54 UTC] [INFO] MySQL version 		: 10.4.32
+[13:01:54 UTC] [INFO] XML Reader 		: Yes
+[13:01:54 UTC] [INFO] PHP Version 		: 8.2.12
+[13:01:54 UTC] [INFO] PHP Max Input Vars 	: 1000
+[13:01:54 UTC] [INFO] PHP Max Post Size 	: 40M
+[13:01:54 UTC] [INFO] PHP Extension GD 	: No
+[13:01:54 UTC] [INFO] PHP Max Execution Time 	: 120
+[13:01:54 UTC] [INFO] Max Upload Size 	: 40 MB
+[13:01:54 UTC] [INFO] Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+[13:01:54 UTC] [INFO] Timezone 		: 0
+[13:01:54 UTC] [INFO] 
+-----
+
+[13:01:54 UTC] [INFO] Importing Started! - 13:01:54 UTC
+[13:01:54 UTC] [INFO] ---
+
+[13:01:54 UTC] [INFO] WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+[13:01:54 UTC] [INFO] https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+[13:01:54 UTC] [INFO] ---
+
+[13:01:54 UTC] [SUCCESS] Import process start flag set successfully | Context: {"template_type":"classic"}
+[13:01:54 UTC] [INFO] Starting import process | Context: {"template_type":"classic","uuid":""}
+[13:01:54 UTC] [INFO] Started Import Process
+[13:01:54 UTC] [INFO] # System Details: 
+[13:01:54 UTC] [INFO] Debug Mode 		: Disabled
+[13:01:54 UTC] [INFO] Operating System 	: WINNT
+[13:01:54 UTC] [INFO] Software 		: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+[13:01:54 UTC] [INFO] MySQL version 		: 10.4.32
+[13:01:54 UTC] [INFO] XML Reader 		: Yes
+[13:01:54 UTC] [INFO] PHP Version 		: 8.2.12
+[13:01:54 UTC] [INFO] PHP Max Input Vars 	: 1000
+[13:01:54 UTC] [INFO] PHP Max Post Size 	: 40M
+[13:01:54 UTC] [INFO] PHP Extension GD 	: No
+[13:01:54 UTC] [INFO] PHP Max Execution Time 	: 120
+[13:01:54 UTC] [INFO] Max Upload Size 	: 40 MB
+[13:01:54 UTC] [INFO] Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+[13:01:54 UTC] [INFO] Timezone 		: 0
+[13:01:54 UTC] [INFO] 
+-----
+
+[13:01:54 UTC] [INFO] Importing Started! - 13:01:54 UTC
+[13:01:54 UTC] [INFO] ---
+
+[13:01:54 UTC] [INFO] WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+[13:01:54 UTC] [INFO] https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+[13:01:54 UTC] [INFO] ---
+
+[13:01:54 UTC] [SUCCESS] Import process start flag set successfully | Context: {"template_type":"classic"}
+[13:01:54 UTC] [INFO] Image subsizes deferral enabled for import
+[13:01:54 UTC] [INFO] Image subsizes deferral enabled for import
+[13:01:55 UTC] [INFO] Image subsizes deferral enabled for import
+[13:01:55 UTC] [INFO] Checking if plugin directory clearing is needed
+[13:01:55 UTC] [INFO] Plugin install clear directory enabled - Will clear destination directory
+[13:01:55 UTC] [INFO] Plugin install clear directory options returned
+[13:02:09 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:09 UTC] [SUCCESS] Plugin Activated | Context: {"success":true,"status":"activated","message":"Plugin Activated"}
+[13:02:10 UTC] [INFO] Checking if plugin directory clearing is needed
+[13:02:10 UTC] [INFO] Plugin install clear directory enabled - Will clear destination directory
+[13:02:10 UTC] [INFO] Plugin install clear directory options returned
+[13:02:12 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:25 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:25 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:26 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:26 UTC] [SUCCESS] Plugin Activated | Context: {"success":true,"status":"activated","message":"Plugin Activated"}
+[13:02:27 UTC] [INFO] Checking if plugin directory clearing is needed
+[13:02:27 UTC] [INFO] Plugin install clear directory enabled - Will clear destination directory
+[13:02:27 UTC] [INFO] Plugin install clear directory options returned
+[13:02:28 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:33 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:34 UTC] [SUCCESS] Plugin Activated | Context: {"success":true,"status":"activated","message":"Plugin Activated"}
+[13:02:34 UTC] [INFO] Checking if plugin directory clearing is needed
+[13:02:34 UTC] [INFO] Plugin install clear directory enabled - Will clear destination directory
+[13:02:34 UTC] [INFO] Plugin install clear directory options returned
+[13:02:43 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:43 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:43 UTC] [SUCCESS] Plugin Activated | Context: {"success":true,"status":"activated","message":"Plugin Activated"}
+[13:02:44 UTC] [INFO] Checking if plugin directory clearing is needed
+[13:02:44 UTC] [INFO] Plugin install clear directory enabled - Will clear destination directory
+[13:02:44 UTC] [INFO] Plugin install clear directory options returned
+[13:02:48 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:48 UTC] [INFO] All required plugins verified successfully.
+[13:02:50 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:52 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:53 UTC] [INFO] ---
+
+[13:02:53 UTC] [INFO] Starting WP Forms import process
+[13:02:53 UTC] [INFO] info | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/351\/wpforms.json","timeout_seconds":300}
+[13:02:53 UTC] [INFO] success | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/351\/wpforms.json","file_size":1433,"uploaded_file":"C:\\xampp\\htdocs\\wordpress\/wp-content\/uploads\/2026\/06\/wpforms.json"}
+[13:02:53 UTC] [SUCCESS] File downloaded successfully from: https://websitedemos.net/wp-content/uploads/astra-sites/351/wpforms.json
+[13:02:53 UTC] [INFO] Checking if WPForms is already loaded
+[13:02:53 UTC] [INFO] WPForms is already loaded and ready
+[13:02:53 UTC] [SUCCESS] Successfully inserted WP Form ID 7 - Contact Form
+[13:02:53 UTC] [INFO] WPForms ID mappings saved: 1 mappings
+[13:02:53 UTC] [SUCCESS] WP Forms Imported. | Context: {"message":"WP Forms Imported.","mapping":{"315":7}}
+[13:02:55 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:55 UTC] [INFO] ---
+
+[13:02:55 UTC] [INFO] Starting import customizer settings
+[13:02:55 UTC] [INFO] Importing customizer settings | Context: {"settings_count":0}
+[13:02:55 UTC] [INFO] Fetched customizer data from site data | Context: {"settings_count":2}
+[13:02:55 UTC] [INFO] Starting customizer settings import | Context: {"settings_count":2}
+[13:02:55 UTC] [INFO] Validating customizer data keys | Context: {"keys":["astra-settings","custom-css"]}
+[13:02:55 UTC] [INFO] Old customizer data backed up
+[13:02:55 UTC] [SUCCESS] Astra theme settings updated | Context: {"option_key":"astra-settings"}
+[13:02:55 UTC] [SUCCESS] Custom CSS updated | Context: {"option_key":"custom-css"}
+[13:02:55 UTC] [SUCCESS] Customizer settings import completed successfully
+[13:02:55 UTC] [SUCCESS] Customizer settings imported successfully
+[13:02:56 UTC] [FATAL] There was an error on website: Uncaught Error - Class "Elementor\App\App" not found | Context: {"error_type":"Uncaught Error","message":"Class \"Elementor\\App\\App\" not found","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\elementor\\includes\\plugin.php","line":733,"trace":"#0 C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\elementor\\includes\\plugin.php(630): Elementor\\Plugin->init_components()\n#1 C:\\xampp\\htdocs\\wordpress\\wp-includes\\class-wp-hook.php(341): Elementor\\Plugin->init('')\n#2 C:\\xampp\\htdocs\\wordpress\\wp-includes\\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)\n#3 C:\\xampp\\htdocs\\wordpress\\wp-includes\\plugin.php(522): WP_Hook->do_action(Array)\n#4 C:\\xampp\\htdocs\\wordpress\\wp-settings.php(771): do_action('init')\n#5 C:\\xampp\\htdocs\\wordpress\\wp-config.php(102): require_once('C:\\\\xampp\\\\htdocs...')\n#6 C:\\xampp\\htdocs\\wordpress\\wp-load.php(50): require_once('C:\\\\xampp\\\\htdocs...')\n#7 C:\\xampp\\htdocs\\wordpress\\wp-admin\\admin-ajax.php(22): require_once('C:\\\\xampp\\\\htdocs...')\n#8 {main}"}
+[13:02:58 UTC] [INFO] Image subsizes deferral enabled for import
+[13:02:59 UTC] [INFO] Image subsizes deferral enabled for import
+[13:03:01 UTC] [INFO] Image subsizes deferral enabled for import
+[13:03:02 UTC] [INFO] Image subsizes deferral enabled for import
+[13:03:03 UTC] [INFO] Checking if plugin directory clearing is needed
+[13:03:03 UTC] [INFO] Plugin install clear directory enabled - Will clear destination directory
+[13:03:03 UTC] [INFO] Plugin install clear directory options returned
+[13:03:24 UTC] [INFO] Image subsizes deferral enabled for import
+[13:03:25 UTC] [INFO] Checking if plugin directory clearing is needed
+[13:03:25 UTC] [INFO] Plugin install clear directory enabled - Will clear destination directory
+[13:03:25 UTC] [INFO] Plugin install clear directory options returned
+[13:03:26 UTC] [INFO] Image subsizes deferral enabled for import
+[13:03:32 UTC] [INFO] Image subsizes deferral enabled for import
+[13:03:33 UTC] [INFO] Image subsizes deferral enabled for import
+[13:03:34 UTC] [INFO] Checking if plugin directory clearing is needed
+[13:03:34 UTC] [INFO] Plugin install clear directory enabled - Will clear destination directory
+[13:03:34 UTC] [INFO] Plugin install clear directory options returned
+[13:04:27 UTC] [INFO] Image subsizes deferral enabled for import
+[13:04:28 UTC] [INFO] Image subsizes deferral enabled for import
+[13:06:28 UTC] [INFO] Image subsizes deferral enabled for import
+[13:06:29 UTC] [INFO] Image subsizes deferral enabled for import
+[13:06:30 UTC] [INFO] Image subsizes deferral enabled for import
+[13:06:32 UTC] [INFO] Import process completed. Cleaning up log file option.

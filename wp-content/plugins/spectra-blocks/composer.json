@@ -1,0 +1,87 @@
+{
+	"name": "brainstormforce/spectra-blocks",
+	"description": "Spectra Blocks WordPress Plugin",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0-or-later",
+	"require": {
+		"php": ">=8.1",
+		"composer/installers": "^2.0",
+		"enshrined/svg-sanitize": "^0.22.0",
+		"brainstormforce/bsf-analytics": "^1",
+		"brainstormforce/zip-ai": "~2",
+		"brainstormforce/astra-notices": "~1",
+		"brainstormforce/nps-survey": "^1",
+		"brainstormforce/zipwp-images": "^1",
+		"brainstormforce/gutenberg-templates": "dev-feat/spectra-blocks-support"
+	},
+	"repositories": [
+		{
+			"name": "brainstormforce/gutenberg-templates",
+			"type": "vcs",
+			"url": "git@github.com:brainstormforce/gutenberg-templates.git"
+		},
+		{
+			"name": "brainstormforce/zip-ai",
+			"type": "vcs",
+			"url": "git@github.com:brainstormforce/zipwp-ai-sdk.git"
+		},
+		{
+			"name": "brainstormforce/zipwp-images",
+			"type": "vcs",
+			"url": "git@github.com:brainstormforce/zipwp-images.git"
+		},
+		{
+			"name": "brainstormforce/nps-survey",
+			"type": "vcs",
+			"url": "git@github.com:brainstormforce/nps-survey.git"
+		},
+		{
+			"name": "brainstormforce/bsf-analytics",
+			"type": "vcs",
+			"url": "git@github.com:brainstormforce/bsf-analytics.git"
+		}
+	],
+	"extra": {
+		"installer-paths": {
+			"lib/{$name}/": [
+				"brainstormforce/bsf-analytics",
+				"brainstormforce/zip-ai",
+				"brainstormforce/astra-notices",
+				"brainstormforce/nps-survey",
+				"brainstormforce/zipwp-images",
+				"brainstormforce/gutenberg-templates"
+			]
+		}
+	},
+	"autoload": {
+		"classmap": [
+			"includes/"
+		]
+	},
+	"replace": {
+		"automattic/vipwpcs": "*"
+	},
+	"require-dev": {
+		"squizlabs/php_codesniffer": "^3.9 || ^4.0",
+		"wp-coding-standards/wpcs": "^3.1",
+		"dealerdirect/phpcodesniffer-composer-installer": "^1.0",
+		"phpunit/phpunit": "^9.5",
+		"yoast/phpunit-polyfills": "^1.0"
+	},
+	"scripts": {
+		"lint": "phpcs",
+		"lint:fix": "phpcbf",
+		"test": "vendor/bin/phpunit"
+	},
+	"config": {
+		"allow-plugins": {
+			"composer/installers": true,
+			"dealerdirect/phpcodesniffer-composer-installer": true
+		},
+		"platform": {
+			"php": "8.1"
+		}
+	},
+	"minimum-stability": "stable",
+	"prefer-stable": true
+}
